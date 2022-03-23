@@ -98,6 +98,6 @@ class ProductController extends Controller
     {
         $product = Product::find($id);
         $product->delete();
-        return redirect('products')->with('success','Information has been deleted');
+        return redirect('products')->with('success','Information has been deleted gua');
     }
 }
