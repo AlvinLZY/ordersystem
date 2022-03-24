@@ -2,7 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Alvin</title>
+        <title>LCK
+        </title>
         <link rel="stylesheet" href="{{URL::asset('css/app.css')}}">
     </head>
     <body>
