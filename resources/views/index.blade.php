@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Index Page</title>
+        <title>Alvin</title>
         <link rel="stylesheet" href="{{URL::asset('css/app.css')}}">
     </head>
     <body>
