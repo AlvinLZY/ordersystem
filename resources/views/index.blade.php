@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>LCK
+        <title>Zsasa
         </title>
         <link rel="stylesheet" href="{{URL::asset('css/app.css')}}">
     </head>
